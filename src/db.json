@@ -1,0 +1,57 @@
+{
+  "poll": [
+    {
+      "id": "1",
+      "Name": "tung1wwww",
+      "Option_1": "lần 1www",
+      "opId1": "1",
+      "Option_2": "lan2www",
+      "opId2": "1"
+    },
+    {
+      "id": "2",
+      "Name": "tung2",
+      "Option_1": "lần 1",
+      "opId1": "1",
+      "Option_2": "lan2",
+      "opId2": "1"
+    },
+    {
+      "id": "3",
+      "Name": "tung3",
+      "Option_1": "lần 1",
+      "opId1": "1",
+      "Option_2": "lan3sssss",
+      "opId2": "1"
+    },
+    {
+      "Name": "dd",
+      "Option_1": "dd",
+      "Option_2": "đ",
+      "id": "h3pbUDw"
+    },
+    {
+      "Name": "srrr",
+      "Option_1": "rrrr",
+      "Option_2": "rrr",
+      "id": "dNhfeRe"
+    }
+  ],
+  "user": [
+    {
+      "Username": "Tung",
+      "Password": "123",
+      "id": 1
+    },
+    {
+      "Username": "tung22",
+      "Password": "123",
+      "id": 2
+    },
+    {
+      "Username": "tung22",
+      "Password": "123",
+      "id": 3
+    }
+  ]
+}
